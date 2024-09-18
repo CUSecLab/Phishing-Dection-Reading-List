@@ -14,3 +14,4 @@
 - [Data Safety vs. App Privacy: Comparing the Usability of Android and iOS Privacy Labels](https://arxiv.org/pdf/2312.03918), 2023
 - [Honesty is the Best Policy: On the Accuracy of Apple Privacy Labels Compared to Apps' Privacy Policies](https://arxiv.org/abs/2306.17063), 2023
 - [Unpacking Privacy Labels: A Measurement and Developer Perspective on Google’s Data Safety Section](https://www.usenix.org/system/files/sec24summer-prepub-1315-khandelwal.pdf), 2024, USENIX
+- [Multimodal Large Language Models for Phishing Webpage Detection and Identification] (https://doi.org/10.48550/arXiv.2408.05941) 2024, eCrime
