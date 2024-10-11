@@ -1,6 +1,6 @@
 # Phishing-Detection-Reading-List
 
-## This section of papers is around privay labeling
+## This section of papers is around privacy labeling
 - [A “Nutrition Label” for Privacy](https://dl.acm.org/doi/pdf/10.1145/1572532.1572538), 2009, SOUPS
 - [Ask the experts: What should be on an IoT privacy and security label?](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9152770), 2020, S&P
 - [Understanding challenges for developers to create accurate privacy nutrition labels](https://dl.acm.org/doi/pdf/10.1145/3491102.3502012), 2022, CHI
