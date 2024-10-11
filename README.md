@@ -19,9 +19,8 @@
 - [Multimodal Large Language Models for Phishing Webpage Detection and Identification](https://doi.org/10.48550/arXiv.2408.05941) 2024, eCrime
 - [From Chatbots to Phishbots?: Phishing Scam Generation in Commercial Large Language Models](https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00182), 2024 IEEE Symposium on Security and Privacy (SP)
 - [Can AI Keep You Safe? A Study of Large Language Models for Phishing Detection](https://doi.org/10.1109/CCWC60891.2024.10427626), 2024 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC)
-- [Detecting Phishing Sites Using ChatGPT](https://doi.org/10.48550/arXiv.2306.05816), arXiv:2306.05816v2
 - [Automated Phishing Detection using URLs and Webpages](https://doi.org/10.48550/arXiv.2408.01667), arXiv:2408.01667v2
-- [Phishing websites detection using a novel multipurpose dataset and web technologies features]([)](https://doi.org/10.1016/j.eswa.2022.118010), Expert Systems with Applications, 2022•Elsevier
+- [Phishing websites detection using a novel multipurpose dataset and web technologies features](https://doi.org/10.1016/j.eswa.2022.118010), Expert Systems with Applications, 2022•Elsevier
 - [ChatGPT vs. Human Annotators: A Comprehensive Analysis of ChatGPT for Text Annotation](https://doi.org/10.1109/ICMLA58977.2023.00089), 2023 International Conference on Machine Learning and Applications
 - [Using ChatGPT as a Static Application Security Testing Tool](https://doi.org/10.48550/arXiv.2308.14434), arXiv preprint arXiv:2308.14434, 2023•arxiv.org
 - [Detecting Phishing Sites Using ChatGPT](https://doi.org/10.48550/arXiv.2306.05816), arXiv preprint arXiv:2306.05816, 2023•arxiv.org
