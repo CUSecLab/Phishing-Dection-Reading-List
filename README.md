@@ -28,3 +28,5 @@
 - [A Framework for Detecting Phishing Websites using GA based Feature Selection and ARTMAP based Website Classification](https://doi.org/10.1016/j.procs.2020.04.116), Procedia computer science, 2020•Elsevier
 
 ## Datasets folder contains datasets used in research for LLM Phishing Detection and Classification
+- https://github.com/CUSecLab/Phishing-Dection-Reading-List/tree/main/DataSets
+  
