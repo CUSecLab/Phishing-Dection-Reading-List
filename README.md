@@ -26,7 +26,9 @@
 - [Detecting Phishing Sites Using ChatGPT](https://doi.org/10.48550/arXiv.2306.05816), arXiv preprint arXiv:2306.05816, 2023•arxiv.org
 - [Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-ruofan), 33rd USENIX Security Symposium (USENIX Security 24
 - [A Framework for Detecting Phishing Websites using GA based Feature Selection and ARTMAP based Website Classification](https://doi.org/10.1016/j.procs.2020.04.116), Procedia computer science, 2020•Elsevier
-
+- [From ML to LLM: Evaluating the Robustness of Phishing Webpage Detection Models against Adversarial Attacks](https://doi.org/10.48550/arXiv.2407.20361), 18 Sep 2024 - arXiv:2407.20361v2
+- [Towards benchmark datasets for machine learning based website phishing detection: An experimental study](https://doi.org/10.1016/j.engappai.2021.104347), Engineering Applications of Artificial Intelligence, 2021•Elsevier
+  
 ## Datasets folder contains datasets used in research for LLM Phishing Detection and Classification
 - https://github.com/CUSecLab/Phishing-Dection-Reading-List/tree/main/DataSets
   
