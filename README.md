@@ -31,4 +31,6 @@
   
 ## Datasets folder contains datasets used in research for LLM Phishing Detection and Classification
 - https://github.com/CUSecLab/Phishing-Dection-Reading-List/tree/main/DataSets
-  
+- [Automatic Detection of Email Phishing Attacks](https://github.com/marwenkouidhi/automatic-detection-of-email-phishing-attacks.git)
+- [Medeley Data - Phishing Websites Dataset](https://data.mendeley.com/datasets/n96ncsr5g4/1),Published: 16 November 2021|Version 1|DOI:[10.17632/n96ncsr5g4.1
+- [Phishing Websites Data](https://archive.ics.uci.edu/dataset/327/phishing+websites),Mohammad, R. & McCluskey, L. (2012). Phishing Websites [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C51W2X
