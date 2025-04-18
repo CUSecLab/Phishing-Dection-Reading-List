@@ -15,6 +15,10 @@
 - [From ML to LLM: Evaluating the Robustness of Phishing Webpage Detection Models against Adversarial Attacks](https://doi.org/10.48550/arXiv.2407.20361), 18 Sep 2024 - arXiv:2407.20361v2
 - [Towards benchmark datasets for machine learning based website phishing detection: An experimental study](https://doi.org/10.1016/j.engappai.2021.104347), Engineering Applications of Artificial Intelligence, 2021•Elsevier
 
+- [KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection](https://www.usenix.org/system/files/usenixsecurity24-li-yuexin.pdf), 33rd USENIX Security Symposium Philadelphia, PA, USA
+- [Multimodal Large Language Models for Phishing Webpage Detection and Identification](https://arxiv.org/pdf/2408.05941), 2024•arxiv.org
+
+
 ### Attacks
 - [From Chatbots to Phishbots?: Phishing Scam Generation in Commercial Large Language Models](https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00182), 2024 IEEE Symposium on Security and Privacy (SP)
 
